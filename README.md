@@ -5,7 +5,7 @@
     Your browser does not support the video tag.
 </video>
 
-![](https://github.com/anandkaranubc/aws_deepracer/blob/main/AWS%20Deepracer%20Video.mp4)
+![](https://youtu.be/fx0FUjy4keI)
 
 ## Overall Rankings
 ![](./Rankings.png)
