@@ -5,7 +5,7 @@
     Your browser does not support the video tag.
 </video>
 
-![](https://youtu.be/fx0FUjy4keI)
+[](https://youtu.be/fx0FUjy4keI)
 
 ## Overall Rankings
 ![](./Rankings.png)
